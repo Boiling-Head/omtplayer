@@ -44,7 +44,7 @@ Precompiled binaries are available via Releases.
 
 If you find this tool useful:
 
-👉 https://www.boilinghead.com (donation/support)
+👉 https://www.boilinghead.com/fundraiser/buy-me-a-beer/ (donation/support)
 
 ---
 

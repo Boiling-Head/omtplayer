@@ -36,7 +36,9 @@ Built for live performance environments, experimental broadcasting, and hybrid m
 
 👉 <https://www.boilinghead.com/software/bhm-omt-decoder-v10/>
 
-[![Download](https://img.shields.io/badge/Download-BHM_OMT_Decoder-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white)](https://www.boilinghead.com/software/bhm-omt-decoder-v10/)
+<a href="https://www.boilinghead.com/software/bhm-omt-decoder-v10/">
+  <img src="https://img.shields.io/badge/Download-BHM_OMT_Decoder-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Download BHM OMT Decoder" height="28" />
+</a>
 
 Precompiled binaries are available via Releases.
 
@@ -48,7 +50,9 @@ If you find this tool useful:
 
 👉 <https://www.boilinghead.com/fundraiser/buy-me-a-beer/> (donation/support)
 
-[![Buy me a drink](https://img.shields.io/badge/Buy_me_a_drink-Support-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white)](https://www.boilinghead.com/fundraiser/buy-me-a-beer/)
+<a href="https://www.boilinghead.com/fundraiser/buy-me-a-beer/">
+  <img src="https://img.shields.io/badge/Buy_me_a_drink-Support-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Buy me a drink" height="28" />
+</a>
 
 ---
 
@@ -116,14 +120,6 @@ All libraries remain under their respective licenses.
 * Media transport testing
 * Interactive installations
 * Experimental streaming setups
-
----
-
-## 👤 Author
-
-Ranav Adhikari
-Boiling Head Media
-Berlin / Global
 
 ---
 
