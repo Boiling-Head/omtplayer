@@ -37,7 +37,7 @@ Built for live performance environments, experimental broadcasting, and hybrid m
 👉 <https://www.boilinghead.com/software/bhm-omt-decoder-v10/>
 
 <a href="https://www.boilinghead.com/software/bhm-omt-decoder-v10/">
-  <img src="https://img.shields.io/badge/Download-BHM_OMT_Decoder-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Download BHM OMT Decoder" height="28" />
+  <img src="https://img.shields.io/badge/Download-BHM_OMT_Decoder-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Download BHM OMT Decoder" height="32" />
 </a>
 
 Precompiled binaries are available via Releases.
@@ -51,7 +51,7 @@ If you find this tool useful:
 👉 <https://www.boilinghead.com/fundraiser/buy-me-a-beer/> (donation/support)
 
 <a href="https://www.boilinghead.com/fundraiser/buy-me-a-beer/">
-  <img src="https://img.shields.io/badge/Buy_me_a_drink-Support-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Buy me a drink" height="28" />
+  <img src="https://img.shields.io/badge/Buy_me_a_drink-Support-000000?style=flat-square&labelColor=000000&color=000000&logoColor=white" alt="Buy me a drink" height="32" />
 </a>
 
 ---
@@ -94,12 +94,24 @@ Use at your own risk in production environments.
 
 ---
 
-## 📜 License
+📜 Licensing
+This Application
 
-MIT License
+This software is licensed under the MIT License.
 
-Copyright (c) 2026 Ranav Adhikari
+Permission is granted to use, modify, and distribute the software freely, provided that the original copyright notice is retained. ()
 
+Third-Party Libraries
+
+This application includes or depends on the following:
+
+Dear ImGui — MIT License
+SDL2 — zlib License
+Open Media Transport — MIT License
+
+The zlib license (used by SDL2) allows free use, modification, and distribution, including commercial use, as long as attribution is preserved and origin is not misrepresented. ()
+
+All third-party components remain the property of their respective authors and are distributed under their own license terms.
 ---
 
 ## 🙏 Credits
