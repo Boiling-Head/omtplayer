@@ -36,6 +36,8 @@ Built for live performance environments, experimental broadcasting, and hybrid m
 
 👉 <https://www.boilinghead.com/software/bhm-omt-decoder-v10/>
 
+[![Download](https://img.shields.io/badge/Download-BHM_OMT_Decoder-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white)](https://www.boilinghead.com/software/bhm-omt-decoder-v10/)
+
 Precompiled binaries are available via Releases.
 
 ---
@@ -44,7 +46,9 @@ Precompiled binaries are available via Releases.
 
 If you find this tool useful:
 
-👉 <https://www.boilinghead.com> (donation/support)
+👉 <https://www.boilinghead.com/fundraiser/buy-me-a-beer/> (donation/support)
+
+[![Buy me a drink](https://img.shields.io/badge/Buy_me_a_drink-Support-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white)](https://www.boilinghead.com/fundraiser/buy-me-a-beer/)
 
 ---
 
