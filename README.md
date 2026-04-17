@@ -94,24 +94,23 @@ Use at your own risk in production environments.
 
 ---
 
-📜 Licensing
-This Application
+## 📜 License
 
-This software is licensed under the MIT License.
+This project is licensed under the MIT License.
 
-Permission is granted to use, modify, and distribute the software freely, provided that the original copyright notice is retained. ()
+See [LICENSE](LICENSE) for the full license text.
 
-Third-Party Libraries
+If you distribute binaries from a website or release package, include the LICENSE file with the download.
 
-This application includes or depends on the following:
+## 📚 Third-Party Licenses
 
-Dear ImGui — MIT License
-SDL2 — zlib License
-Open Media Transport — MIT License
+This project uses the following third-party components:
 
-The zlib license (used by SDL2) allows free use, modification, and distribution, including commercial use, as long as attribution is preserved and origin is not misrepresented. ()
+* Dear ImGui - MIT License
+* SDL2 - zlib License
+* Open Media Transport - MIT License
 
-All third-party components remain the property of their respective authors and are distributed under their own license terms.
+Third-party components remain under their respective licenses.
 ---
 
 ## 🙏 Credits
